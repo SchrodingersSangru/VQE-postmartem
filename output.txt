@@ -1,0 +1,803 @@
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 1,
+    'eigenstate': None,
+    'eigenvalue': (466.2178439941403+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 1.21851748,  0.88880822, -2.33329715, -2.4271439 ,  0.96349833,
+        2.22083649, -1.87377696, -1.77174116,  1.3608414 , -0.1840994 ,
+       -0.53267632, -0.9478323 , -2.74038769, -0.28484088, -1.24750584,
+       -0.69695131,  0.25319867,  1.15352806]),
+    'optimal_value': 466.2178439941403,
+    'optimizer_evals': None,
+    'optimizer_time': 0.6183271408081055}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 1,
+    'eigenstate': None,
+    'eigenvalue': (-0.011928710937499087+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 0.7838423 ,  1.52495706, -3.02712963,  0.96922626,  0.26428679,
+        2.20754069,  2.75850211, -3.06102262,  2.06294754, -1.54991171,
+        0.78356341,  1.66138956,  2.18024158,  2.76838977,  0.84637929,
+        2.25697381, -0.01445927, -1.67534319]),
+    'optimal_value': -0.011928710937499087,
+    'optimizer_evals': None,
+    'optimizer_time': 0.5909292697906494}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 2,
+    'eigenstate': None,
+    'eigenvalue': (-0.11435180664058098+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-1.13591952, -0.01333641,  1.54160089, -0.31828554,  1.1390006 ,
+       -2.35421244,  2.96384928, -0.16400003,  2.05357275,  1.43838251,
+        1.76358538, -0.73348156, -2.44667575, -0.28076546, -1.06000716,
+       -0.63689263,  3.09412599, -1.19991677]),
+    'optimal_value': -0.11435180664058098,
+    'optimizer_evals': None,
+    'optimizer_time': 1.1037821769714355}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 3,
+    'eigenstate': None,
+    'eigenvalue': (-0.41945678710929346+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 1.7750675 , -1.09631377,  0.58867075, -0.96315497, -1.61867501,
+       -0.67464584,  2.72896428,  0.49234616,  0.11419893,  1.90754914,
+        0.0232808 , -2.43395886, -2.31761778,  1.37252678, -0.20866916,
+       -1.82946616,  2.93353894, -1.44290436]),
+    'optimal_value': -0.41945678710929346,
+    'optimizer_evals': None,
+    'optimizer_time': 1.9014897346496582}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 4,
+    'eigenstate': None,
+    'eigenvalue': (205.26887426757833+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 1.7767198 , -1.15079175,  1.54666977,  0.17231025, -2.91232615,
+        1.33727998, -1.30672482, -0.41188154,  1.34311156,  3.11200376,
+       -0.33300829,  1.08272538, -0.09023766,  1.0444449 , -2.14284367,
+        3.10368707, -2.23739991,  1.05261518]),
+    'optimal_value': 205.26887426757833,
+    'optimizer_evals': None,
+    'optimizer_time': 2.665126085281372}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 5,
+    'eigenstate': None,
+    'eigenvalue': (-0.2904968261716899+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-1.72746605, -1.59270382,  3.3480073 ,  1.56858702, -2.53612852,
+       -1.37529823, -2.70070165,  2.73657971,  2.17778368,  1.739002  ,
+        1.24682041,  1.08335397, -2.93541416, -2.78609022, -1.25096922,
+        0.48367801,  2.06838769, -0.35999483]),
+    'optimal_value': -0.2904968261716899,
+    'optimizer_evals': None,
+    'optimizer_time': 2.247454881668091}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 6,
+    'eigenstate': None,
+    'eigenvalue': (-0.27290405273434+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-0.57590929,  1.84460577,  3.8392319 , -0.0913656 ,  0.39030685,
+       -1.32010693,  1.59261956, -2.22250251,  1.06539467, -1.76830658,
+        1.10215912,  0.01253961,  2.04149148,  0.41740643,  2.55814014,
+       -0.30868575, -3.04678262,  2.98608163]),
+    'optimal_value': -0.27290405273434,
+    'optimizer_evals': None,
+    'optimizer_time': 3.8348381519317627}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 7,
+    'eigenstate': None,
+    'eigenvalue': (-0.07157226562491442+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 2.68808957,  3.02586823,  3.06003918, -1.34823398,  2.35270164,
+       -2.61313432, -1.20028287, -2.13576088, -0.10733618, -1.94991548,
+       -1.81473321,  0.49798668, -2.12739822, -0.11350708,  1.21826389,
+       -3.04329496,  2.41490551,  1.59886211]),
+    'optimal_value': -0.07157226562491442,
+    'optimizer_evals': None,
+    'optimizer_time': 3.695411205291748}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 8,
+    'eigenstate': None,
+    'eigenvalue': (-0.2044921874999006+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 2.58243863,  2.40755961,  3.89759561, -2.23561437, -2.62184948,
+        2.50617512, -2.02734828,  0.81699546,  0.77696674,  2.66510242,
+       -2.52684367, -0.92924979,  1.63154472, -0.95146229, -1.31055017,
+       -2.01421501, -3.01482259,  0.18229897]),
+    'optimal_value': -0.2044921874999006,
+    'optimizer_evals': None,
+    'optimizer_time': 3.4763083457946777}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 9,
+    'eigenstate': None,
+    'eigenvalue': (24.30682226562523+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-1.7398752 , -0.19360629,  1.46777116, -0.51060902,  0.68000645,
+        3.84617093, -2.01320911,  1.90165391,  1.06486619,  0.05467416,
+       -0.99770896, -2.11896098, -0.76897001,  0.33798612,  2.96915383,
+       -1.42371229,  2.25581805,  1.79420927]),
+    'optimal_value': 24.30682226562523,
+    'optimizer_evals': None,
+    'optimizer_time': 3.819613456726074}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 10,
+    'eigenstate': None,
+    'eigenvalue': (-0.360839843749974+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-0.83450569,  1.4760787 , -2.97363196,  4.02324539,  0.95312971,
+       -1.17601463,  1.84346618,  2.33352796,  1.48600622,  3.03492544,
+       -1.39944232,  0.33725321, -0.3756406 ,  0.8695179 , -1.37918778,
+        1.14273899, -0.20311777, -0.73058063]),
+    'optimal_value': -0.360839843749974,
+    'optimizer_evals': None,
+    'optimizer_time': 4.775056838989258}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 11,
+    'eigenstate': None,
+    'eigenvalue': (-0.12269531249995855+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 1.24956831, -0.43145445, -1.06319667,  3.12748471, -0.69564344,
+       -1.0169433 ,  2.91942947,  2.74591766,  2.6391796 , -2.52453183,
+        1.91263022, -1.82026188,  0.93496171,  2.23807894,  1.55007811,
+       -2.77015441,  0.59245439, -2.06672773]),
+    'optimal_value': -0.12269531249995855,
+    'optimizer_evals': None,
+    'optimizer_time': 5.053561449050903}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 12,
+    'eigenstate': None,
+    'eigenvalue': (-1.3959999999998445+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 3.06129244, -0.71756144, -0.84794035,  0.09049311,  1.32134631,
+        2.53286959, -1.01936286,  2.13814462,  0.50318381,  4.10401347,
+        0.85514382, -1.75209269,  0.05197419,  1.52039976,  2.08099341,
+       -0.20651632, -0.76845537,  1.48397331]),
+    'optimal_value': -1.3959999999998445,
+    'optimizer_evals': None,
+    'optimizer_time': 4.391317129135132}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 13,
+    'eigenstate': None,
+    'eigenvalue': (-0.09272949218739304+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-2.50319425,  1.29282611,  0.34576472,  2.22441223, -2.59236639,
+       -1.55586107, -1.33035507, -0.22958426,  2.93718968,  3.2242915 ,
+       -1.59695166,  0.48489581,  2.83273311,  1.95153389, -2.82877642,
+        1.50886444,  1.76319716,  2.52703965]),
+    'optimal_value': -0.09272949218739304,
+    'optimizer_evals': None,
+    'optimizer_time': 5.601217031478882}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 14,
+    'eigenstate': None,
+    'eigenvalue': (-1.3959999999999582+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 1.51217763, -0.39467091, -1.98802635,  1.59392912, -1.38196822,
+       -0.33149962,  0.19069816, -2.68006038,  0.91746518, -1.55992416,
+       -0.23746977, -1.96097248,  1.54477261,  2.28552301,  1.20780588,
+        2.47802685,  2.41538648,  0.56065403]),
+    'optimal_value': -1.3959999999999582,
+    'optimizer_evals': None,
+    'optimizer_time': 5.412355422973633}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 15,
+    'eigenstate': None,
+    'eigenvalue': (-0.3008984374998632+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 1.57999582, -1.24420433,  0.35047833,  3.93251196,  1.53889161,
+        2.94983284, -0.17507764, -1.21380102, -2.74354184, -2.01325775,
+        1.57987416,  2.28885423, -2.05989491,  2.840322  , -1.37872807,
+       -1.65628376,  1.29278433, -2.97752081]),
+    'optimal_value': -0.3008984374998632,
+    'optimizer_evals': None,
+    'optimizer_time': 7.598043918609619}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 16,
+    'eigenstate': None,
+    'eigenvalue': (-0.6661938476560125+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 0.78085742,  2.06101411,  1.37883763, -1.67982957,  2.93221605,
+        0.344077  ,  1.45745149,  0.286876  ,  4.00245565, -2.77887583,
+       -1.54872075,  1.35355157, -1.22488391,  1.59853958,  1.55165899,
+       -0.54418574,  2.14813428,  1.21973607]),
+    'optimal_value': -0.6661938476560125,
+    'optimizer_evals': None,
+    'optimizer_time': 5.400811195373535}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 17,
+    'eigenstate': None,
+    'eigenvalue': (-0.1909912109374105+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 2.08810993,  1.28248573,  1.43344796,  2.64433548,  3.07407577,
+       -1.59618501,  3.45771486,  1.68688447, -0.15258951,  0.23437375,
+        0.28128272, -0.1029984 ,  2.89344269,  1.59421578, -1.46537841,
+       -1.37085548, -0.83618653,  3.0208991 ]),
+    'optimal_value': -0.1909912109374105,
+    'optimizer_evals': None,
+    'optimizer_time': 8.7663414478302}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 18,
+    'eigenstate': None,
+    'eigenvalue': (-0.2879931640624218+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 0.38268404,  0.81256012,  3.85829745,  3.04633282, -1.65775977,
+       -0.52912038,  0.62967721,  0.02910235, -3.05271701,  0.25261579,
+        3.77339623,  1.14820093, -1.27992963,  1.27577648, -2.02579091,
+        3.97781154,  0.27111971,  2.46345129]),
+    'optimal_value': -0.2879931640624218,
+    'optimizer_evals': None,
+    'optimizer_time': 5.974588632583618}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 19,
+    'eigenstate': None,
+    'eigenvalue': (-1.3293762207029753+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 1.70701887,  3.93509816,  1.110069  ,  0.9706776 , -2.7567912 ,
+        2.08533695, -0.62744547, -0.48741067,  0.55900334,  2.02329095,
+       -2.36229569,  1.21907687, -2.09456676, -1.90260716,  0.43676468,
+        1.27152577,  0.52226008,  1.7927402 ]),
+    'optimal_value': -1.3293762207029753,
+    'optimizer_evals': None,
+    'optimizer_time': 9.242533445358276}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 20,
+    'eigenstate': None,
+    'eigenvalue': (-0.7676806640623146+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 2.01964599, -0.13460316,  3.5428983 , -0.46299347,  1.57463973,
+        0.90198199,  0.70308334,  1.1801279 ,  3.50120746,  0.77062739,
+        3.33506257,  2.16698642,  2.06617157, -0.9241911 ,  3.81741135,
+        1.77439335, -1.43787141,  2.02706156]),
+    'optimal_value': -0.7676806640623146,
+    'optimizer_evals': None,
+    'optimizer_time': 10.308134317398071}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 21,
+    'eigenstate': None,
+    'eigenvalue': (-0.5322875976560405+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-0.70692495, -3.07978236,  2.44993329, -0.62254003, -0.88822609,
+       -0.14032857, -2.47711428,  0.01389179, -0.74458708, -1.88854023,
+       -0.88151055,  2.1127164 ,  3.68076834,  1.67209438,  3.89833406,
+        0.71576343, -0.67706001,  0.7813027 ]),
+    'optimal_value': -0.5322875976560405,
+    'optimizer_evals': None,
+    'optimizer_time': 6.619034290313721}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 22,
+    'eigenstate': None,
+    'eigenvalue': (-0.5144567871092371+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 1.15418569,  3.31016205, -0.12807023,  1.93127683, -0.77727883,
+       -0.22435364,  0.5750098 , -0.52456043, -0.22467068, -0.95097876,
+        1.62668639, -0.18334426, -1.69805504, -1.61889479,  2.27174432,
+        2.28928418,  1.1357592 , -1.62854667]),
+    'optimal_value': -0.5144567871092371,
+    'optimizer_evals': None,
+    'optimizer_time': 7.677167654037476}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 23,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-1.96907055, -0.11037652, -2.94698275, -0.84675659,  3.99467225,
+        0.65620857,  1.57294035,  3.58072153,  0.96050018,  1.74377982,
+        0.58576133, -0.28475899,  1.77471057, -1.92295151, -1.59674038,
+        0.51702946, -1.54941471, -2.35381842]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 8.12914252281189}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 24,
+    'eigenstate': None,
+    'eigenvalue': (-1.396212402343593+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 0.84641734,  2.24156252, -0.954669  ,  0.48054697,  1.6989327 ,
+       -1.42113513, -1.14816618, -0.71470678, -0.13132609, -0.4165211 ,
+        1.44018027, -0.06716586,  0.55812468,  2.10534144,  1.24811829,
+        1.9053159 ,  2.17305275, -2.60439449]),
+    'optimal_value': -1.396212402343593,
+    'optimizer_evals': None,
+    'optimizer_time': 10.732303619384766}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 25,
+    'eigenstate': None,
+    'eigenvalue': (-0.2719689941404883+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 1.0970679 , -2.6460475 ,  1.71378504,  0.52496428,  3.16280776,
+       -1.55189901,  3.32030617, -1.62727933, -4.26325981, -0.06929417,
+       -0.70224254,  0.85816667, -1.4106433 ,  2.32206646,  1.96398758,
+        1.89597652,  3.01331801, -2.33775671]),
+    'optimal_value': -0.2719689941404883,
+    'optimizer_evals': None,
+    'optimizer_time': 9.808868408203125}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 26,
+    'eigenstate': None,
+    'eigenvalue': (-1.4011684570311467+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-0.06666028,  2.07257727,  3.17820658,  4.21179327,  2.67523491,
+        0.08488083, -1.86671844, -2.95239983, -1.52060395, -2.81961699,
+        1.44335992, -1.36893664, -0.94649638, -0.5302336 , -0.13637797,
+       -0.72199025, -0.63842023,  3.5784396 ]),
+    'optimal_value': -1.4011684570311467,
+    'optimizer_evals': None,
+    'optimizer_time': 10.478676557540894}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 27,
+    'eigenstate': None,
+    'eigenvalue': (-1.3961416015624564+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-0.62906395,  1.47358054, -1.48385264, -2.11491139, -1.00748307,
+        2.20922837,  0.49523722,  0.13389321, -2.04200996,  2.30334868,
+       -0.85087034,  1.8843686 , -2.2308161 ,  2.27279119,  1.45257084,
+        1.41235344, -0.17840236,  0.742736  ]),
+    'optimal_value': -1.3961416015624564,
+    'optimizer_evals': None,
+    'optimizer_time': 11.352640390396118}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 28,
+    'eigenstate': None,
+    'eigenvalue': (-1.3997878417967238+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-1.34763649,  1.4066307 ,  0.67238973, -0.33397526,  1.3694519 ,
+        2.50644755,  0.56001485, -1.14110163, -0.32556204,  4.03370042,
+       -2.24726209,  0.71436376,  0.89673328, -1.43279141, -0.10655829,
+        0.90314422, -1.82895965, -1.39561756]),
+    'optimal_value': -1.3997878417967238,
+    'optimizer_evals': None,
+    'optimizer_time': 13.637818098068237}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 29,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-0.90765006,  2.19453026, -2.2117901 , -1.36057622,  0.38305302,
+        1.3885697 ,  2.76975122, -1.8088937 , -3.0576225 ,  2.15357213,
+        2.02271147, -0.77937144, -2.10575242,  0.91348441,  0.23298932,
+        0.06812304, -1.43224579, -1.30399423]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 14.293417930603027}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 30,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-0.98056622, -0.95163131,  3.24979776, -2.39371718,  1.72988706,
+       -1.2509706 ,  1.43124397,  2.43926627, -2.58059801,  2.26603379,
+        1.307339  ,  1.35625055, -0.03440803, -2.69154163,  2.25192416,
+        2.42633434, -2.50960229,  0.23602682]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 12.748778343200684}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 31,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-0.7053169 ,  2.95541549, -0.56338364, -0.53457727,  1.55270455,
+       -0.14930816, -1.67959885, -1.42405287, -1.09744146, -2.47603742,
+        3.1854689 , -0.74238265, -1.14245645,  1.00843466, -1.14216206,
+        0.57545137,  1.32374945,  0.52524874]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 13.651121139526367}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 32,
+    'eigenstate': None,
+    'eigenvalue': (-1.4171340332028024+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-1.77939192,  2.85403075,  3.02599859, -0.11038395,  0.67814595,
+        0.45030043,  0.29758   , -1.12022825, -0.17006473, -2.71975629,
+        3.38824154, -2.5802634 , -2.52693434,  0.4365772 ,  1.65084485,
+        3.39238587, -2.04498561,  0.05978925]),
+    'optimal_value': -1.4171340332028024,
+    'optimizer_evals': None,
+    'optimizer_time': 14.599015712738037}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 33,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 0.83180763,  1.87246149, -1.19577509,  0.77854383,  2.99996763,
+       -0.69513924,  2.12280919,  1.36821816,  2.87799842,  1.54327687,
+       -2.51996834,  1.29842993,  0.97569258,  2.35723419, -0.09795495,
+       -1.98644328,  2.7832834 , -1.88077236]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 14.600242376327515}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 34,
+    'eigenstate': None,
+    'eigenvalue': (-1.4225148925777584+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-1.80304639,  0.26779421, -0.8793748 , -0.08064547, -0.23431208,
+        1.5865078 ,  1.68427191,  2.00094003, -0.0657121 , -1.43924571,
+       -1.3018197 ,  2.0639892 ,  1.42588545, -0.53738805,  1.53588054,
+       -1.60842361,  2.01103816, -1.11522708]),
+    'optimal_value': -1.4225148925777584,
+    'optimizer_evals': None,
+    'optimizer_time': 11.705488443374634}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 35,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 0.60189426, -0.88638358,  0.95629865, -0.23290219,  0.12780261,
+       -0.98198279, -0.8060312 , -2.02599485, -1.56683012,  1.77778695,
+       -0.43591627, -1.59922967,  1.61036739,  0.75192377,  0.25532266,
+        2.6191441 ,  0.54856673,  1.03351842]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 15.898616075515747}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 36,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 0.2570773 , -2.44036449, -1.6213876 ,  1.19249386,  2.01737828,
+        0.75455583, -1.47330841,  0.08202604, -0.55919511,  2.38883372,
+       -3.00166209,  2.39037406,  2.31425566,  2.84193375, -2.12595453,
+        1.69350761,  1.12490378,  1.06632814]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 17.913206815719604}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 37,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-2.72757865,  1.82281422, -1.84461926, -1.66445776, -3.12708085,
+       -2.29129071, -0.08464195, -2.20456341,  4.19510819,  0.24532268,
+        1.40205603, -1.76644968, -1.31865569,  1.16076829, -1.79797135,
+        4.21534407, -0.51266977,  1.53284713]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 10.652999877929688}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 38,
+    'eigenstate': None,
+    'eigenvalue': (-1.4003896484373126+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 2.47184068, -1.06994465, -2.69072885, -0.05570677,  2.71195936,
+        2.30122298, -2.5944082 ,  1.04706369,  3.35394809, -3.18867694,
+       -0.26407435,  0.00623118,  3.23469266, -2.77663735, -1.42848182,
+        2.15867052,  3.04893446,  0.17212485]),
+    'optimal_value': -1.4003896484373126,
+    'optimizer_evals': None,
+    'optimizer_time': 13.538004875183105}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 39,
+    'eigenstate': None,
+    'eigenvalue': (-1.3960354003905828+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 3.12360898, -0.24193707, -1.01156486, -1.12079402, -2.77542679,
+       -2.57039763, -1.29125389,  1.08973616, -1.50682224,  0.86946627,
+        0.3526658 , -0.38334749,  3.17911207,  0.25579134, -3.05784244,
+        2.08589555,  1.80719245, -2.02635811]),
+    'optimal_value': -1.3960354003905828,
+    'optimizer_evals': None,
+    'optimizer_time': 13.831257343292236}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 40,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 1.37774136,  0.5113302 ,  0.75417804,  3.01902208,  0.33777164,
+       -3.02364707, -0.89285618,  4.27799226,  3.66364904, -0.19478787,
+        2.99235942, -2.82957297,  3.39299633,  2.72402886,  2.90204392,
+       -0.46113274,  1.80247401,  0.9807366 ]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 13.348870515823364}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 41,
+    'eigenstate': None,
+    'eigenvalue': (-1.4185500488277922+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-0.4378723 , -0.54747008,  3.90288506,  0.57405699, -2.61516068,
+        1.57857055,  1.14986239, -2.02209515,  0.35528964, -1.24125851,
+       -1.6982551 , -1.39164587, -2.57688883, -2.9006878 , -0.74150913,
+        1.90756963, -1.36850159, -0.82308005]),
+    'optimal_value': -1.4185500488277922,
+    'optimizer_evals': None,
+    'optimizer_time': 19.851760387420654}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 42,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-1.08794793,  2.22403514, -0.97665914, -1.89297831,  1.93047116,
+        0.88639594,  0.67863496, -3.13347448, -1.29586426, -2.31968842,
+       -2.21453538,  0.33051312,  1.25027411, -1.54015824, -2.59695751,
+        2.755514  ,  1.61197647,  2.63645777]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 17.311017274856567}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 43,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 0.71705218,  0.3238774 ,  0.24561931,  3.9080509 , -2.74248102,
+       -1.68751935, -1.45100165, -3.01302932,  0.30833458, -2.29436581,
+        0.20546919, -3.08449356,  1.76710442, -0.82082281, -1.90481272,
+       -1.41363196, -2.90792469, -1.2885337 ]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 17.08687400817871}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 44,
+    'eigenstate': None,
+    'eigenvalue': (-1.4024074707029182+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 4.40217034, -0.09037957,  2.98646707,  0.75844916, -0.24795344,
+       -0.96046092,  1.7405596 , -0.94261698, -1.49149139,  1.86105519,
+        0.96417375,  0.58101624, -2.04823318, -0.36810645,  1.21603028,
+        1.82814151, -2.674671  , -0.39144654]),
+    'optimal_value': -1.4024074707029182,
+    'optimizer_evals': None,
+    'optimizer_time': 17.891141414642334}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 45,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-0.8466234 , -0.02545414,  1.34270368, -0.07710884,  0.33776033,
+        1.36704682,  1.03876934,  2.72725468, -0.12551303,  2.59293058,
+        0.40034518,  3.80874798,  0.46893015,  0.22386628, -2.1163158 ,
+        0.90144778, -0.71003957, -1.9613017 ]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 14.53420615196228}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 46,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-0.01301098,  3.50315874, -1.95976908,  1.28919721,  1.09259903,
+        0.57754892,  2.44180333,  3.36736116,  1.75153457,  2.51374966,
+       -2.42969264,  3.36526513, -1.53000024, -2.86673807,  1.3499072 ,
+       -3.00204404, -4.1452219 , -1.53368617]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 19.76588463783264}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 47,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 0.58200781, -0.99975491,  3.641254  , -1.64461876, -2.63706481,
+        1.2680743 ,  1.47002796,  2.41403153,  2.84502521,  3.39336034,
+        1.17332932,  1.27925066,  1.81717181, -1.31595066,  2.30394217,
+        3.31231003, -0.88331671,  0.92589452]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 20.09703540802002}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 48,
+    'eigenstate': None,
+    'eigenvalue': (-1.4249999999996135+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([ 5.36769849e-01,  2.93323296e-01,  3.19303538e+00, -7.75925901e-01,
+        2.87682721e+00, -3.12607659e+00,  3.76706815e+00,  1.59941699e+00,
+        3.75325119e-01,  1.80939615e+00,  1.47207161e-04, -6.09419164e-01,
+        2.83937045e+00, -2.89457572e+00, -1.75556530e+00, -9.41881751e-01,
+        7.97300734e-01, -1.54249390e+00]),
+    'optimal_value': -1.4249999999996135,
+    'optimizer_evals': None,
+    'optimizer_time': 20.263503313064575}
+
+ 
+  
+
+{   'aux_operator_eigenvalues': None,
+    'cost_function_evals': 49,
+    'eigenstate': None,
+    'eigenvalue': (-1.3992568359373183+0j),
+    'optimal_parameters': None,
+    'optimal_point': array([-2.85832066,  1.27111218,  1.29678813,  1.51267419, -0.8248519 ,
+        1.00811481,  0.15586235,  1.2891752 , -2.65725121,  3.98352862,
+       -0.24826885,  2.89342277, -1.50109561, -1.48844374,  0.67880127,
+       -3.1003328 ,  0.33901539, -0.01119332]),
+    'optimal_value': -1.3992568359373183,
+    'optimizer_evals': None,
+    'optimizer_time': 18.675690412521362}
+
+ 
+  
+
+CPU times: user 8min 27s, sys: 139 ms, total: 8min 28s
+Wall time: 8min 27s
